@@ -1,0 +1,8 @@
+/*
+ *  These presets contain plugins that babel will utilise when converting the library
+ *  from ES6 and JSX to a lower javascript versions.
+ */
+
+{
+  "presets": ["@babel/env", "@babel/preset-react"]
+}
